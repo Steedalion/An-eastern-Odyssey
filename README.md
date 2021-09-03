@@ -9,3 +9,5 @@ A quick implementation of the tilemap system.
 
 <img src='Screenshot.PNG' align="right" width=960>
 
+
+<img src='gifanim.gif' align="right" >
