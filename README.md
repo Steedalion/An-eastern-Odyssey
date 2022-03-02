@@ -3,8 +3,9 @@
 This is a 2D prototype project.
 ## Project Description:
 
-A quick implementation of the tilemap system. 
 Uses touch input and 2D navmesh to create an arpg like touch to move system.
+
+-A quick implementation of the tilemap system. 
 
 ## Screenshots
 
